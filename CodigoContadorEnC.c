@@ -244,3 +244,4 @@ void app_main(void)
 		BtnBlancoPresionado=0;
     }
   }
+  //codigo terminado
